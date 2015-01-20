@@ -1,0 +1,11 @@
+body {
+    padding-top: 60px;
+}
+ 
+.form-signup, .form-signin {
+   
+    margin: 0 auto;
+}
+.alert{
+	color:red;
+}
