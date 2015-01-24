@@ -1,4 +1,4 @@
-
+/vendor
 ser.phar
 composer.lock
 .env.local.php
